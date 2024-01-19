@@ -2,7 +2,7 @@
 
 This program is used to determine the feasibility of forming a triangle with three given integer values. The program should return True if a valid triangle can be formed based on the triangle inequality theorem , and False otherwise.
 
-code.java => Program
+code.java => Program <br>
 test.java => Script for testing
 
 ## User Story
